@@ -1,4 +1,4 @@
-# The_Capstone
+# The Capstone - Project of the Johns Hopkins University Data Science via Cousera
 This Shiny application is part of the final project of the Developing Data Products course, where we cover the basics of data product creation using Shiny, R and interactive graphics packages.
 
 Summary
@@ -20,8 +20,3 @@ Where we find in this menu, the following options:
  * **The Courses** : List of modules, courses that make up this specialization.
 
 * **Help** : Information related to this application.
-</div><br>
-<div class = "tabletext">Loading the libraries that will be used.</div>
-* **library(shiny)**
-* **library(hash)**
-* **library(ggplot2)**
